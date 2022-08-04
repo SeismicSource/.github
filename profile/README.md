@@ -4,5 +4,5 @@ A collection of software packages to characterize and study seismic source param
 
 Two packages are currently available:
 
-- [SourceSpec](https://github.com/SeismicSource/sourcespec) - Earthquake source parameters from S-wave displacement spectra
+- [SourceSpec](https://github.com/SeismicSource/sourcespec) - Earthquake source parameters from P- and S-wave displacement spectra
 - [Requake](https://github.com/SeismicSource/requake) - Repeating earthquakes search and analysis
